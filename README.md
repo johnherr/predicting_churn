@@ -1,4 +1,3 @@
-# predicting_churn
 
 ![](images/header.png)
 **JOHN HERR**
