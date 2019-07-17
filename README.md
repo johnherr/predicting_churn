@@ -178,9 +178,9 @@ Figure 9 shows that as the percent of trips taken while paying surge premiums in
 
 **Figure 9**: Partial dependency plot showing relationship between churn likelihood (y) and the percent of rides where the customer was paying surge pricing (x)
 
-Figures 10 and 11 show the effect of churn based on the city in which the user is based.  Users located in "King's Landing" are more likely to continue using the service while users in Winterfell are more likely to churn.  This may be correlated with differences in the city layouts and what other forms of transportation are available in each city.
+Figures 10 and 11 show the effect of churn based on the city in which the user is based.  Users located in "King's Landing" and "Winterfell" are more likely to continue using the service than if they are not (i.e., if they are based in "Astapor").  This may be a result of, e.g., how dense the cities are and what other forms of transportation are available in each city.
 
-![](images/city_King's Landing.png)
+![](images/city_King_Landing.png)
 
 **Figure 10**: Partial dependency plot showing relationship between churn likelihood (y) and whether the user was based in King's Landing* (x=1)
 
