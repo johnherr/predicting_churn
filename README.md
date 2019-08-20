@@ -9,6 +9,9 @@
   - [Logistic Regression](#logit)
 5. [Insights](#insight)
 
+
+![](images/rideshare.png)
+
 ## Objective <a name="objective"></a>
 
 As part of a one-day case study at Galvanize, I was provided with a dataset from a ride-sharing company (Company X) and tasked with developing a model to predict user churn and offer insights to help improve customer retention.
