@@ -1,3 +1,5 @@
+![](images/rideshare.png)
+
 ## Table of Contents
 1. [Objective](#objective)
 2. [The Dataset](#data)
@@ -9,8 +11,6 @@
   - [Logistic Regression](#logit)
 5. [Insights](#insight)
 
-
-![](images/rideshare.png)
 
 ## Objective <a name="objective"></a>
 
