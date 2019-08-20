@@ -1,16 +1,12 @@
-
-![](images/header.png)
-**JOHN HERR**
-
 ## Table of Contents
 1. [Objective](#objective)
 2. [The Dataset](#data)
-    - [Data Cleaning and Feature Engineering](#cleaning)
+- [Data Cleaning and Feature Engineering](#cleaning)
 3. [Non-Parametric Modeling](#non)
-    - [XGboost](#boost)
-    - [Random Forest](#rf)
+- [XGboost](#boost)
+- [Random Forest](#rf)
 4. [Parametric Modeling](#par)
-    - [Logistic Regression](#logit)
+- [Logistic Regression](#logit)
 5. [Insights](#insight)
 
 ## Objective <a name="objective"></a>
